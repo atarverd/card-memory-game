@@ -1,0 +1,28 @@
+.game-area{
+    display: flex;
+    flex-wrap: wrap;
+    width: 790px;
+    height: 740px;
+    background-color:#122E55;
+    border: 2px solid #ff6d00;
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+button{
+    margin: 20px 50px;
+    padding: 10px;
+    width: 170px;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 12px;
+    outline: none;
+    cursor: pointer;
+    border:none;
+    background-color: #ff8e38;
+    color: #04141d;
+}
+h1{
+    color: #ff8223;
+}
